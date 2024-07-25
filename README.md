@@ -1,5 +1,5 @@
 Studi kasus berdasarkan NIM belakang.
-Ganjil : CRUD Toko
+Ganjil : CRUD Toko,
 Genap : CRUD Perpustakaan
 
 Project akhir mandiri
